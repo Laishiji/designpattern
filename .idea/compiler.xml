@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="singleton" />
-        <module name="factorymethod" />
         <module name="simplefactory" />
+        <module name="abstractfactory" />
+        <module name="factorymethod" />
       </profile>
     </annotationProcessing>
   </component>
