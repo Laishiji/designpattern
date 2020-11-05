@@ -10,6 +10,7 @@
         <module name="simplefactory" />
         <module name="abstractfactory" />
         <module name="factorymethod" />
+        <module name="prototype" />
       </profile>
     </annotationProcessing>
   </component>
