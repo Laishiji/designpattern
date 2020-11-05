@@ -11,6 +11,7 @@
     <modules>
         <module>singleton</module>
         <module>simplefactory</module>
+        <module>factorymethod</module>
     </modules>
 
     <dependencies>
