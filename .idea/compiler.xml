@@ -10,9 +10,13 @@
         <module name="simplefactory" />
         <module name="abstractfactory" />
         <module name="adapter" />
+        <module name="strategy" />
         <module name="factorymethod" />
         <module name="prototype" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="decorator" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
