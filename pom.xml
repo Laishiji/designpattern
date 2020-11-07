@@ -17,6 +17,7 @@
         <module>adapter</module>
         <module>decorator</module>
         <module>strategy</module>
+        <module>observer</module>
     </modules>
 
 </project>
