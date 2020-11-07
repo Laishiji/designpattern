@@ -15,9 +15,9 @@
         <module>abstractfactory</module>
         <module>prototype</module>
         <module>adapter</module>
-        <module>decorator</module>
         <module>strategy</module>
         <module>observer</module>
+        <module>chainofresponsibility</module>
     </modules>
 
 </project>

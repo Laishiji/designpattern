@@ -11,6 +11,7 @@
         <module name="simplefactory" />
         <module name="abstractfactory" />
         <module name="adapter" />
+        <module name="chainofresponsibility" />
         <module name="strategy" />
         <module name="factorymethod" />
         <module name="prototype" />
